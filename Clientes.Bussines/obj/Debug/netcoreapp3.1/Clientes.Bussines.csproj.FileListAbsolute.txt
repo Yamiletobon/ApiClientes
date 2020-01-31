@@ -1,0 +1,10 @@
+C:\Tuya\Clientes.Bussines\bin\Debug\netcoreapp3.1\Clientes.Bussines.deps.json
+C:\Tuya\Clientes.Bussines\bin\Debug\netcoreapp3.1\Clientes.Bussines.dll
+C:\Tuya\Clientes.Bussines\obj\Debug\netcoreapp3.1\Clientes.Bussines.csprojAssemblyReference.cache
+C:\Tuya\Clientes.Bussines\obj\Debug\netcoreapp3.1\Clientes.Bussines.AssemblyInfoInputs.cache
+C:\Tuya\Clientes.Bussines\obj\Debug\netcoreapp3.1\Clientes.Bussines.AssemblyInfo.cs
+C:\Tuya\Clientes.Bussines\bin\Debug\netcoreapp3.1\Clientes.Bussines.runtimeconfig.json
+C:\Tuya\Clientes.Bussines\bin\Debug\netcoreapp3.1\Clientes.Bussines.runtimeconfig.dev.json
+C:\Tuya\Clientes.Bussines\bin\Debug\netcoreapp3.1\Clientes.Bussines.pdb
+C:\Tuya\Clientes.Bussines\obj\Debug\netcoreapp3.1\Clientes.Bussines.dll
+C:\Tuya\Clientes.Bussines\obj\Debug\netcoreapp3.1\Clientes.Bussines.pdb

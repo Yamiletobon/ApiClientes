@@ -1,0 +1,10 @@
+C:\Tuya\Clientes.models\bin\Debug\netcoreapp3.1\Clientes.models.deps.json
+C:\Tuya\Clientes.models\bin\Debug\netcoreapp3.1\Clientes.models.dll
+C:\Tuya\Clientes.models\obj\Debug\netcoreapp3.1\Clientes.models.csprojAssemblyReference.cache
+C:\Tuya\Clientes.models\obj\Debug\netcoreapp3.1\Clientes.models.AssemblyInfoInputs.cache
+C:\Tuya\Clientes.models\obj\Debug\netcoreapp3.1\Clientes.models.AssemblyInfo.cs
+C:\Tuya\Clientes.models\bin\Debug\netcoreapp3.1\Clientes.models.runtimeconfig.json
+C:\Tuya\Clientes.models\bin\Debug\netcoreapp3.1\Clientes.models.runtimeconfig.dev.json
+C:\Tuya\Clientes.models\bin\Debug\netcoreapp3.1\Clientes.models.pdb
+C:\Tuya\Clientes.models\obj\Debug\netcoreapp3.1\Clientes.models.dll
+C:\Tuya\Clientes.models\obj\Debug\netcoreapp3.1\Clientes.models.pdb

@@ -1,0 +1,13 @@
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.Data.deps.json
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.Data.runtimeconfig.json
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.Data.runtimeconfig.dev.json
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.Data.dll
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.Data.pdb
+C:\Tuya\Clientes.Data\obj\Debug\netcoreapp3.0\Clientes.Data.csprojAssemblyReference.cache
+C:\Tuya\Clientes.Data\obj\Debug\netcoreapp3.0\Clientes.Data.AssemblyInfoInputs.cache
+C:\Tuya\Clientes.Data\obj\Debug\netcoreapp3.0\Clientes.Data.AssemblyInfo.cs
+C:\Tuya\Clientes.Data\obj\Debug\netcoreapp3.0\Clientes.Data.dll
+C:\Tuya\Clientes.Data\obj\Debug\netcoreapp3.0\Clientes.Data.pdb
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.models.dll
+C:\Tuya\Clientes.Data\bin\Debug\netcoreapp3.0\Clientes.models.pdb
+C:\Tuya\Clientes.Data\obj\Debug\netcoreapp3.0\Clientes.Data.csproj.CopyComplete
